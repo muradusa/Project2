@@ -1,7 +1,7 @@
 require("dotenv").config();
 var express = require("express");
 var exphbs = require("express-handlebars");
-
+// I am adding some stuff to push to github
 var db = require("./models");
 
 var app = express();
